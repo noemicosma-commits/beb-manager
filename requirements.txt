@@ -1,0 +1,5 @@
+
+streamlit
+supabase
+streamlit-calendar
+httpx[http2]
